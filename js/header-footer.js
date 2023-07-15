@@ -7,7 +7,7 @@ document.querySelector('footer').innerHTML = `
         <a href="">お問い合わせ</a>
       </li>
       <p class="stick">&#160;|&#160;</p>
-      <li>-
+      <li>
         <a href="">プライバシーポリシー</a>
       </li>
       <p class="stick">&#160;|&#160;</p>
